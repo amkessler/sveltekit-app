@@ -19,11 +19,11 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		to my sandbox site<br />for playing with SvelteKit
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Here's a little counter to start things off. Give it a try:
 	</h2>
 
 	<Counter />
