@@ -19,7 +19,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>About this app</h1>
+	<h1>About this experimental app</h1>
 
 	<p>
 		The page you're looking at is purely static HTML, with no client-side interactivity needed.
